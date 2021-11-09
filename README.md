@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muskan Rai 
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on angular and react 
+- 🌱 I’m currently learning Angular and React
+- 💞️ I’m looking to collaborate on Angular and React 
 - 📫 How to reach me muskan.rai1998@gmail.com
 
 <!---
